@@ -1,0 +1,3 @@
+RetroKbdI2C.c:30:19:kbd_i2c_init	24	static
+RetroKbdI2C.c:45:19:kbd_i2c_rd_key	40	static
+RetroKbdI2C.c:94:19:kbd_i2c_get_str	32	static

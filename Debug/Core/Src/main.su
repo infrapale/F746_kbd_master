@@ -1,0 +1,9 @@
+main.c:78:6:Print_HAL_Reply	104	static
+main.c:110:5:main	96	static
+main.c:174:6:SystemClock_Config	216	static
+main.c:231:13:MX_ETH_Init	8	static
+main.c:273:13:MX_I2C1_Init	8	static
+main.c:319:13:MX_USART3_UART_Init	8	static
+main.c:354:13:MX_USB_OTG_FS_PCD_Init	8	static
+main.c:389:13:MX_GPIO_Init	56	static
+main.c:443:6:Error_Handler	4	static
